@@ -11,7 +11,7 @@ Passionate programmer & MS SQL DBA with 10+ years in analysis, design, developme
 ✔ MS SQL Server 2019/2017/2016
 ✔ Snowflake
 ✔ MySQL
-✔ MariaDB
+✔ MongoDB 
 ✔ PostgreSQL
 
 **Core Skills Area:**<br>
