@@ -15,5 +15,5 @@ Passionate programmer & MS SQL DBA with 10+ years in analysis, design, developme
 ✌ GIT/GitHub/GitLab, version control system.
 
 **Certification:**
-👍- MCSA(MS SQL 2016 Database Admin)
+👍 MCSA(MS SQL 2016 Database Admin)<br>
 👍- DP-300: Administering Relational Databases on Microsoft Azure 
