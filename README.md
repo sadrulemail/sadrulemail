@@ -1,16 +1,19 @@
-### Hi there 👋
+Passionate programmer & MS SQL DBA with 10+ years in analysis, design, development, testing and implementation. Worked with highly sensitive production environment where downtime is not allowable & provide 24/7 support.Skilled with On-premise & MS Azure for development & production. Develop collaborative relationships among high-functioning teams. Ability to quickly master new skills, technology, or role. Have good leardership skills to manage teams.
 
 
-**sadrulemail/sadrulemail** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Core Skills Areas:
+✌ MS SQL/MySQL database design, administration & performance tuning
+✌ Powershell scripting, DBA tools in PowerShell and bulk copy program (BCP)
+✌ AlwaysOn availability Group & FCI configuration, Replication
+✌ Microsoft Azure database Services, Azure data factory, Azure storage account and logic apps, azure functions
+✌ Strong Analytical & problem-solving skills
+✌ Cloud Data Warehouse(snowflake.com) and data refresh by stream and task
+✌ ETL\ELT by ADF/SSIS to process structured and semi-structured data
+✌ Upgrade/ Migrate SQL server instances
+✌ Web application in .Net framework/ASP.NET, Rest API development in .NET Core & JWT, implementation of API method by role and policy-based
+✌ Administering databases on Windows and Linux (Ubuntu) platform and docker
+✌ GIT/GitHub/GitLab, version control system.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
+**Certification:**
+👍 MCSA(MS SQL 2016 Database Admin)
+👍 DP-300: Administering Relational Databases on Microsoft Azure 
