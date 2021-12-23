@@ -1,7 +1,7 @@
-Passionate programmer & MS SQL DBA with 10+ years in analysis, design, development, testing and implementation. Worked with highly sensitive production environment where downtime is not allowable & provide 24/7 support.Skilled with On-premise & MS Azure for development & production. Develop collaborative relationships among high-functioning teams. Ability to quickly master new skills, technology, or role. Have good leardership skills to manage teams.
+Passionate programmer & MS SQL DBA with 10+ years in analysis, design, development, testing and implementation. Worked with highly sensitive production environment where downtime is not allowable & provide 24/7 support.Skilled with On-premise & MS Azure for development & production. Develop collaborative relationships among high-functioning teams. Ability to quickly master new skills, technologies, or role. Have good leardership skills to manage teams.
 
 
-**Core Skills Areas:**<br>
+**Core Skills Area:**<br>
 ✌ MS SQL/MySQL database design, administration & performance tuning<br>
 ✌ Powershell scripting, DBA tools in PowerShell and bulk copy program (BCP)<br>
 ✌ AlwaysOn availability Group & FCI configuration, Replication<br>
@@ -17,3 +17,5 @@ Passionate programmer & MS SQL DBA with 10+ years in analysis, design, developme
 **Certification:**<br>
 👍 MCSA(MS SQL 2016 Database Admin)<br>
 👍 DP-300: Administering Relational Databases on Microsoft Azure <br>
+
+**Love to learn & share knowledge**
