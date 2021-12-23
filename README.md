@@ -14,6 +14,6 @@ Passionate programmer & MS SQL DBA with 10+ years in analysis, design, developme
 ✌ Administering databases on Windows and Linux (Ubuntu) platform and docker
 ✌ GIT/GitHub/GitLab, version control system.
 
-**Certification:**
+**Certification:**<br>
 👍 MCSA(MS SQL 2016 Database Admin)<br>
-👍- DP-300: Administering Relational Databases on Microsoft Azure 
+👍- DP-300: Administering Relational Databases on Microsoft Azure <br>
