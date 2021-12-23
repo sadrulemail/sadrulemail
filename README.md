@@ -7,6 +7,12 @@ Passionate programmer & MS SQL DBA with 10+ years in analysis, design, developme
 ✔ PowerShell
 ✔ HTML & CSS
 
+**Databases:**
+✔ MS SQL Server 2019/2017/2016
+✔ Snowflake
+✔ MySQL
+✔ MariaDB
+✔ PostgreSQL
 
 **Core Skills Area:**<br>
 ✌ MS SQL/MySQL database design, administration & performance tuning<br>
