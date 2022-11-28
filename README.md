@@ -22,7 +22,7 @@ Passionate developer with 10+ years in analysis, design, development, testing an
 ✌ Strong Analytical & problem-solving skills<br>
 ✌ Cloud Data Warehouse(snowflake.com) and data refresh by stream and task<br>
 ✌ Master/slave replication in MySQL<br>
-✌Logical/streaming replication and cluster setup in Postgresql
+✌Logical/streaming replication and cluster setup in Postgresql<br>
 ✌ ETL\ELT by ADF/SSIS to process structured and semi-structured data<br>
 ✌ Upgrade/ Migrate SQL server instances<br>
 ✌ Web application in .Net framework/ASP.NET, Rest API development in .NET Core & JWT, implementation of API method by role and policy-based<br>
