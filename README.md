@@ -21,6 +21,8 @@ Passionate developer with 10+ years in analysis, design, development, testing an
 ✌ Microsoft Azure database Services, Azure data factory, Azure storage account and logic apps, azure functions<br>
 ✌ Strong Analytical & problem-solving skills<br>
 ✌ Cloud Data Warehouse(snowflake.com) and data refresh by stream and task<br>
+✌ Master/slave replication in MySQL<br>
+✌Logical/streaming replication and cluster setup in Postgresql
 ✌ ETL\ELT by ADF/SSIS to process structured and semi-structured data<br>
 ✌ Upgrade/ Migrate SQL server instances<br>
 ✌ Web application in .Net framework/ASP.NET, Rest API development in .NET Core & JWT, implementation of API method by role and policy-based<br>
