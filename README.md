@@ -33,4 +33,6 @@ Passionate developer with 10+ years in analysis, design, development, testing an
 👍 MCSA(MS SQL 2016 Database Admin)<br>
 👍 DP-300: Administering Relational Databases on Microsoft Azure <br>
 
+To check certifications: https://tinyurl.com/56ypubem
+
 **Love to learn & share knowledge**
