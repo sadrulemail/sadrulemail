@@ -32,6 +32,7 @@ Passionate developer with 12+ years in analysis, design, development, testing an
 **Certification:**<br>
 👍 MCSA(MS SQL 2016 Database Admin)<br>
 👍 DP-300: Administering Relational Databases on Microsoft Azure <br>
+👍 SnowPro Core Certification (COF-C02)
 
 To check certifications: https://tinyurl.com/56ypubem
 
