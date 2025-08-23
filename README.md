@@ -1,10 +1,10 @@
-Passionate developer with 12+ years in analysis, design, development, testing and implementation. Worked with highly sensitive production environment where downtime is not allowable & provide 24/7 support.Skilled with On-premise & MS Azure for development & production. Develop collaborative relationships among high-functioning teams. Ability to quickly master new skills, technologies, or role. Have good leardership skills to manage teams.
+Results-driven and seasoned Data Engineer with over 14 years of experience in database administration, design, and performance optimization. Expert in building and managing scalable data solutions on cloud platforms, with a special focus on the Snowflake Cloud Data Warehouse. Proven ability to translate complex business requirements into robust, high-performance data architectures that drive operational efficiency and informed decision-making. Skilled in a wide range of technologies, including SQL Server, Azure SQL, and AWS services, with a strong background in data modeling, ETL/ELT processes, and advanced performance tuning.
 
 **Programming Languages:**
 ✔ SQL & T-SQL
 ✔ .NET & .NET Core
-✔ JavaScript & NodeJS
-✔ PowerShell and batch
+✔ JavaScript, NodeJS, python
+✔ PowerShell and dbatools
 
 **Databases:**
 ✔ MS SQL Server 2022/2019/2017/2016
@@ -15,19 +15,25 @@ Passionate developer with 12+ years in analysis, design, development, testing an
 
 
 **Core Skills Area:**<br>
-✌ MS SQL/MySQL database design, administration & performance tuning<br>
-✌ Powershell scripting, DBA tools in PowerShell and bulk copy program (BCP)<br>
-✌ AlwaysOn availability Group & FCI configuration, Replication<br>
-✌ Microsoft Azure database Services, Azure data factory, Azure storage account and logic apps, azure functions<br>
-✌ Strong Analytical & problem-solving skills<br>
-✌ Cloud Data Warehouse(snowflake.com) and data refresh by stream and task<br>
-✌ Master/slave replication in MySQL<br>
-✌Logical/streaming replication and cluster setup in Postgresql<br>
-✌ ETL\ELT by ADF/SSIS to process structured and semi-structured data<br>
-✌ Upgrade/ Migrate SQL server instances<br>
-✌ Web application in .Net framework/ASP.NET, Rest API development in .NET Core & JWT, implementation of API method by role and policy-based<br>
-✌ Administering databases on Windows and Linux (Ubuntu) platform and docker<br>
-✌ GIT/GitHub/GitLab, version control system<br>
+**Cloud Data Warehousing:** Extensive hands-on experience with Snowflake, including SnowSQL, Snowpipe, and implementing data refresh strategies using Streams and Tasks for automated, near real-time data ingestion and transformation.
+
+**Data Pipeline & ETL/ELT:** Proficient in designing, building, and maintaining robust data pipelines using Azure Data Factory and other tools to extract, transform, and load data into cloud data warehouses.
+
+**Database Administration & Performance Tuning:** Deep expertise in administering and optimizing Microsoft SQL Server, PostgreSQL, and MySQL databases. This includes comprehensive performance tuning, query optimization, and troubleshooting to ensure database stability and high availability.
+
+**High Availability & Disaster Recovery:** Experienced in configuring and managing Always-On Availability Groups, Failover Cluster Instances (FCI), and various replication techniques to ensure business continuity and data integrity.
+
+**Cloud Services:** Skilled in leveraging various Microsoft Azure services such as Azure SQL, Azure Storage Accounts, Logic Apps, and Azure Functions. Also have a strong working knowledge of AWS EC2, S3, and RDS services.
+
+**Data Engineering & Scripting:** Proficient in PowerShell scripting for database automation and management, including the use of DBA tools and the Bulk Copy Program (BCP).
+
+**Database Migration & Upgrades:** Successfully planned and executed numerous database migrations and upgrades for SQL Server, PostgreSQL, and MySQL instances, both on-premises and to the cloud.
+
+**PostgreSQL Expertise:** Strong capabilities in PostgreSQL cluster setup, streaming replication, and repmgr configuration for high-availability solutions.
+
+**Application Development & APIs:** Familiar with full-stack development using .NET Framework/ASP.NET and experienced in Rest API development in .NET Core & JWT, including implementing role and policy-based access control.
+
+**Version Control & CI/CD:** Proficient with GIT/GitHub/GitLab and experienced in setting up CI/CD pipelines to streamline database and application deployments.
 
 **Certification:**<br>
 👍 MCSA(MS SQL 2016 Database Admin)<br>
