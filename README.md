@@ -8,7 +8,7 @@ Results-driven and seasoned Data Engineer with over 14 years of experience in da
 
 **Databases:**
 ✔ MS SQL Server 2022/2019/2017/2016
-✔ Snowflake, Cortex search and contex analyst
+✔ Snowflake, Cortex search and cortex analyst
 ✔ Azure SQL,Mysql, Postgresql
 
 **Core Skills Area:**<br>
