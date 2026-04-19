@@ -55,6 +55,7 @@ DBT transformation: https://github.com/sadrulemail/dbt-dwh_transform
 👍 MCSA(MS SQL 2016 Database Admin)<br>
 👍 DP-300: Administering Relational Databases on Microsoft Azure <br>
 👍 SnowPro Core Certification (COF-C02)
+
 👍 Microsoft Certified: Fabric Data Engineer Associate
 
 To check certifications: https://tinyurl.com/56ypubem
