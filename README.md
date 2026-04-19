@@ -20,6 +20,15 @@ DBT transformation: https://github.com/sadrulemail/dbt-dwh_transform
 
 **Core Skills Area:**<br>
 **Cloud Data Warehousing:** Extensive hands-on experience with Snowflake, including SnowSQL, Snowpipe, and implementing data refresh strategies using Streams and Tasks for automated, near real-time data ingestion and transformation. 
+**Data Engineering:** SQL, Python, PySpark
+**Cloud Platforms:** Microsoft Azure, Microsoft Fabric, Snowflake  
+**Microsoft Fabric Expertise:**  
+  - Lakehouse Architecture (Bronze/Silver/Gold)  
+  - Dataflows Gen2, Pipelines, Notebooks  
+  - Delta Tables & Medallion Architecture  
+  - Fabric Link (D365 F&O, Dataverse)  
+  - Materialized Lake Views (MLVs)  
+  - Power BI Semantic Models & Reporting  
 
 **Data Pipeline & ETL/ELT:** Proficient in designing, building, and maintaining robust data pipelines using Azure Data Factory and other tools to extract, transform, and load data into cloud data warehouses.
 
