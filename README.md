@@ -19,7 +19,7 @@ DBT transformation: https://github.com/sadrulemail/dbt-dwh_transform
 ✔ Azure SQL,Mysql, Postgresql
 
 **Core Skills Area:**<br>
-**Cloud Data Warehousing:** Extensive hands-on experience with Snowflake, including SnowSQL, Snowpipe, and implementing data refresh strategies using Streams and Tasks for automated, near real-time data ingestion and transformation.
+**Cloud Data Warehousing:** Extensive hands-on experience with Snowflake, including SnowSQL, Snowpipe, and implementing data refresh strategies using Streams and Tasks for automated, near real-time data ingestion and transformation. 
 
 **Data Pipeline & ETL/ELT:** Proficient in designing, building, and maintaining robust data pipelines using Azure Data Factory and other tools to extract, transform, and load data into cloud data warehouses.
 
@@ -43,6 +43,7 @@ DBT transformation: https://github.com/sadrulemail/dbt-dwh_transform
 👍 MCSA(MS SQL 2016 Database Admin)<br>
 👍 DP-300: Administering Relational Databases on Microsoft Azure <br>
 👍 SnowPro Core Certification (COF-C02)
+👍 Microsoft Certified: Fabric Data Engineer Associate
 
 To check certifications: https://tinyurl.com/56ypubem
 
