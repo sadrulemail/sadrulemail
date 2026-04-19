@@ -1,5 +1,7 @@
 Results-driven and seasoned Data Engineer with over 14 years of experience in database administration, design, and performance optimization. Expert in building and managing scalable data solutions on cloud platforms, with a special focus on the Snowflake Cloud Data Warehouse. Proven ability to translate complex business requirements into robust, high-performance data architectures that drive operational efficiency and informed decision-making. Skilled in a wide range of technologies, including SQL Server, Azure SQL, and AWS services, with a strong background in data modeling, ETL/ELT processes, and advanced performance tuning.
 <img width="783" height="612" alt="image" src="https://github.com/user-attachments/assets/12225c3f-dd3c-4671-b258-c450edb09337" />
+<img width="1166" height="576" alt="fab_exam" src="https://github.com/user-attachments/assets/c23effda-d412-4934-a0fd-b0f986fd1777" />
+
 
 Snowflake Data warehouse developemnt overview: https://sadrulemail.github.io/snowflake-data-pipeline-automation/snowflake_pipeline_dashboard.html
 
