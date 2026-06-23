@@ -1,63 +1,127 @@
-Results-driven and seasoned Data Engineer with over 14 years of experience in database administration, design, and performance optimization. Expert in building and managing scalable data solutions on cloud platforms, with a special focus on the Snowflake Cloud Data Warehouse. Proven ability to translate complex business requirements into robust, high-performance data architectures that drive operational efficiency and informed decision-making. Skilled in a wide range of technologies, including SQL Server, Azure SQL, and AWS services, with a strong background in data modeling, ETL/ELT processes, and advanced performance tuning.
-<img width="783" height="612" alt="image" src="https://github.com/user-attachments/assets/12225c3f-dd3c-4671-b258-c450edb09337" />
-<img width="1166" height="576" alt="fab_exam" src="https://github.com/user-attachments/assets/c23effda-d412-4934-a0fd-b0f986fd1777" />
+# Sadrul Alom
+## Principal Database Engineer
 
+📍 Mirpur, Dhaka, Bangladesh — *Open to On-site / Hybrid / Remote*
+📧 sadrul.email@gmail.com  |  📱 +880 1717 410181 (WhatsApp)
+🔗 [linkedin.com/in/sadrulalom](https://www.linkedin.com/in/sadrulalom/)  |  💻 [github.com/sadrulemail](https://github.com/sadrulemail)
 
-Snowflake Data warehouse developemnt overview: https://sadrulemail.github.io/snowflake-data-pipeline-automation/snowflake_pipeline_dashboard.html
+---
 
-DBT transformation: https://github.com/sadrulemail/dbt-dwh_transform
+## Professional Summary
 
-**Programming Languages:**
-✔ SQL & T-SQL
-✔ .NET & .NET Core
-✔ JavaScript, NodeJS, python
-✔ PowerShell and dbatools
+Senior Data Engineer and Principal Database Engineer with **15+ years** across cloud data platforms, data warehousing, and database administration. I design and operate **end-to-end ELT/ETL pipelines** on the **medallion architecture** (bronze → silver → gold), turning raw operational data from systems like **Dynamics 365 F&O** and healthcare EHR platforms into validated, analytics-ready models on **Snowflake**, **Microsoft Fabric**, and **Databricks**.
 
-**Databases:**
-✔ MS SQL Server 2022/2019/2017/2016
-✔ Snowflake, Cortex search and cortex analyst
-✔ Azure SQL,Mysql, Postgresql
+I am certified in **Snowflake (SnowPro Core)** and **Microsoft Fabric (DP-700)**, with deep **SQL Server / MySQL / PostgreSQL** administration (**DP-300**, **MCSE**). I have a proven record of architecting enterprise data warehouses, building data-quality validation tooling, leading engineering teams, and optimizing performance, cost, and reliability at scale.
 
-**Core Skills Area:**<br>
-**Cloud Data Warehousing:** Extensive hands-on experience with Snowflake, including SnowSQL, Snowpipe, and implementing data refresh strategies using Streams and Tasks for automated, near real-time data ingestion and transformation. 
+**Core focus:** Cloud data warehousing · Lakehouse & medallion pipelines · Dimensional modeling · ELT/ETL orchestration · Data quality & validation · Database administration & tuning.
 
-**Data Engineering:** SQL, Python, PySpark
+---
 
-**Cloud Platforms:** Microsoft Azure, Microsoft Fabric, Snowflake  
+## Technical Skills
 
-**Microsoft Fabric Expertise:**  
-  - Lakehouse Architecture (Bronze/Silver/Gold)  
-  - Dataflows Gen2, Pipelines, Notebooks  
-  - Delta Tables & Medallion Architecture  
-  - Fabric Link (D365 F&O, Dataverse)  
-  - Materialized Lake Views (MLVs)  
-  - Power BI Semantic Models & Reporting  
+| Category | Technologies |
+|----------|--------------|
+| **Cloud Data Platforms** | Snowflake, Microsoft Fabric (Lakehouse, Materialized Lake Views), Databricks, Delta Lake |
+| **Databases / DBA** | MS SQL Server, MySQL, PostgreSQL, T-SQL — High Availability, backup/recovery, performance tuning, schema design, security |
+| **Data Engineering** | ETL/ELT, Medallion Architecture, Dimensional/Star-Schema Modeling, Data Warehousing, Data Migration, Data Quality & Validation |
+| **Languages** | Python, PySpark, SQL, JavaScript (Snowflake SPs), C#, ASP.NET (MVC / Core), VB6 |
+| **Cloud & Storage** | Microsoft Azure, Azure Data Lake Storage (ADLS), AWS (S3, Iceberg) |
+| **BI & Tooling** | Power BI, dbt, Git, REST APIs, Apache Spark |
+| **Source Systems** | Dynamics 365 Finance & Operations, NetSuite, healthcare EHR/EMR sources |
 
-**Data Pipeline & ETL/ELT:** Proficient in designing, building, and maintaining robust data pipelines using Azure Data Factory and other tools to extract, transform, and load data into cloud data warehouses.
+---
 
-**Database Administration & Performance Tuning:** Deep expertise in administering and optimizing Microsoft SQL Server, PostgreSQL, and MySQL databases. This includes comprehensive performance tuning, query optimization, and troubleshooting to ensure database stability and high availability.
+## Certifications
 
-**High Availability & Disaster Recovery:** Experienced in configuring and managing Always-On Availability Groups, Failover Cluster Instances (FCI), and various replication techniques to ensure business continuity and data integrity.
+| Certification | Issuer |
+|---------------|--------|
+| **SnowPro Core (COF-C02)** | Snowflake |
+| **Fabric Data Engineer Associate (DP-700)** | Microsoft |
+| **Azure Database Administrator Associate (DP-300)** | Microsoft |
+| **MCSE** | Microsoft |
+| **MySQL 8.0 Database Administrator** | Oracle |
 
-**Cloud Services:** Skilled in leveraging various Microsoft Azure services such as Azure SQL, Azure Storage Accounts, Logic Apps, and Azure Functions. Also have a strong working knowledge of AWS EC2, S3, and RDS services.
+*Targeted next:* Databricks Certified Data Engineer Associate.
 
-**Data Engineering & Scripting:** Proficient in PowerShell scripting for database automation and management, including the use of DBA tools and the Bulk Copy Program (BCP).
+---
 
-**Database Migration & Upgrades:** Successfully planned and executed numerous database migrations and upgrades for SQL Server, PostgreSQL, and MySQL instances, both on-premises and to the cloud.
+## Professional Experience
 
-**PostgreSQL Expertise:** Strong capabilities in PostgreSQL cluster setup, streaming replication, and repmgr configuration for high-availability solutions.
+### Principal Database Engineer — RELISOURCE US INC
+*Mar 2020 – Present · Remote (Bangladesh)*
 
-**Application Development & APIs:** Familiar with full-stack development using .NET Framework/ASP.NET and experienced in Rest API development in .NET Core & JWT, including implementing role and policy-based access control.
+Lead data engineering and database operations for US-based clients, spanning cloud data warehousing, lakehouse pipelines, ERP data migration, and multi-engine database administration.
 
-**Version Control & CI/CD:** Proficient with GIT/GitHub/GitLab and experienced in setting up CI/CD pipelines to streamline database and application deployments.
+**Cloud Data Warehousing & Engineering**
+- **Architected and developed a healthcare Enterprise Data Warehouse (EDW) on Snowflake** for a US hospice-care client, integrating multiple source systems (**Carepath, NetSmart, Sage, Optum, Playmaker**) into a **dimensional star-schema** model serving reporting and analytics.
+- Built **Snowflake ELT pipelines** loading data from **Azure Data Lake Storage (ADLS)** into staging, using **JavaScript stored procedures** for dimension/fact loads and orchestrating **incremental and full-refresh** jobs with execution logging and audit checks.
+- Designed and maintained **star-schema dimensional models** (dimension & fact tables) and transformation logic to deliver analytics-ready data marts across multiple source domains.
+- Drove Snowflake **performance and cost optimization** and best practices for storage, warehouse sizing, and secure role-based access.
 
-**Certification:**<br>
-👍 MCSA(MS SQL 2016 Database Admin)<br>
-👍 DP-300: Administering Relational Databases on Microsoft Azure <br>
-👍 SnowPro Core Certification (COF-C02)
+**Lakehouse & Microsoft Fabric**
+- Engineered **Microsoft Fabric** medallion pipelines (**bronze → silver → gold Materialized Lake Views**) ingesting **Dynamics 365 F&O** data into a Lakehouse, delivering analytics-ready gold datasets to downstream teams.
+- Developed an automated **data-validation tool** that reconciles row counts, keys, and column-level values across silver vs. test MLVs and generates **branded HTML validation reports** — cutting manual QA effort and increasing trust in delivered data.
 
-👍 Microsoft Certified: Fabric Data Engineer Associate
+**Data Migration**
+- Led a **Snowflake → NetSuite** ERP data migration: modeled and cleansed legacy source data against a defined cleansing specification, with accuracy and completeness checks.
 
-To check certifications: https://tinyurl.com/56ypubem
+**Database Administration & Leadership**
+- Administer **MS SQL Server, MySQL, and PostgreSQL** — high availability, backup/recovery, query tuning, schema design, security, and proactive monitoring.
+- **Mentor and lead a team of database administrators**; provide technical leadership, conduct code reviews, and guide data architecture and governance across engineering, data science, and BI teams.
+- Evaluate emerging lakehouse and platform technologies to define long-term data strategy and improve efficiency and scalability.
 
-**Love to learn & share knowledge**
+---
+
+### Associate Manager, Application Development — BRAC Bank Limited
+*Dec 2019 – Mar 2020 · Dhaka, Bangladesh*
+
+- Delivered software development, API deployment, and integration using **C#, ASP.NET MVC / Core, MSSQL, EF Core, REST Web API, and NodeJS**.
+
+---
+
+### Database Administrator & Developer / Software Engineer — Trust Bank Limited
+*Mar 2014 – Dec 2019 · Dhaka, Bangladesh*
+
+- **Database Administrator & Developer (2017–2019):** database administration, development, and L3 production support.
+- **Software Engineer (2014–2017):** web application development, management, and L3 support.
+
+---
+
+### Associate Software Engineer — BRAC-Aarong
+*May 2013 – Mar 2014 · Dhaka, Bangladesh*
+
+- Web application development.
+
+---
+
+### Software Programmer — Asiatic Laboratories Ltd.
+*Jan 2011 – Apr 2013 · Dhaka, Bangladesh*
+
+- Built applications and reporting with **SQL Server, SQL Developer, VB6, and Crystal Reports**.
+
+---
+
+## Selected Projects
+
+### Healthcare Enterprise Data Warehouse on Snowflake
+Architected a multi-source EDW consolidating hospice-care data from **Carepath, NetSmart, Sage, Optum, and Playmaker** into a dimensional star schema on Snowflake (Azure). Implemented ADLS-to-Snowflake ELT with JavaScript stored procedures, incremental/full-refresh orchestration, refresh execution logging, and data-transformation layers feeding reporting marts.
+
+### Microsoft Fabric Medallion Pipeline (D365 F&O → Lakehouse)
+End-to-end bronze → silver → gold Materialized Lake Views ingesting Dynamics 365 Finance & Operations data into a Fabric Lakehouse, producing analytics-ready gold datasets.
+
+### Fabric Data Validation Tool
+Automated reconciliation tooling comparing two Fabric tables/MLVs (row counts, keys, column-level values) and generating branded HTML validation reports to certify data accuracy between layers.
+
+### Snowflake → NetSuite ERP Migration
+Modeled and cleansed legacy ERP data in Snowflake against a defined cleansing spec, migrating it into NetSuite with accuracy and completeness validation.
+
+---
+
+## Education
+
+**Master of Engineering (MEng), Information Systems Security**
+Bangladesh University of Professionals (BUP) — 2022
+
+---
+
+> 💡 *Open to Data Engineering, Database Administration, and Cloud Data Platform roles — On-site · Hybrid · Remote.*
