@@ -53,7 +53,7 @@ I am certified in **Snowflake (SnowPro Core)** and **Microsoft Fabric (DP-700)**
 Lead data engineering and database operations for US-based clients, spanning cloud data warehousing, lakehouse pipelines, ERP data migration, and multi-engine database administration.
 
 **Cloud Data Warehousing & Engineering**
-- **Architected and developed a healthcare Enterprise Data Warehouse (EDW) on Snowflake** for a US hospice-care client, integrating multiple source systems (**Carepath, NetSmart, Sage, Optum, Playmaker**) into a **dimensional star-schema** model serving reporting and analytics.
+- **Architected and developed a healthcare Enterprise Data Warehouse (EDW) on Snowflake** for a US hospice-care client, integrating multiple source systems  into a **dimensional star-schema** model serving reporting and analytics.
 - Built **Snowflake ELT pipelines** loading data from **Azure Data Lake Storage (ADLS)** into staging, using **JavaScript stored procedures** for dimension/fact loads and orchestrating **incremental and full-refresh** jobs with execution logging and audit checks.
 - Designed and maintained **star-schema dimensional models** (dimension & fact tables) and transformation logic to deliver analytics-ready data marts across multiple source domains.
 - Drove Snowflake **performance and cost optimization** and best practices for storage, warehouse sizing, and secure role-based access.
