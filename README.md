@@ -9,7 +9,7 @@
 
 ## Professional Summary
 
-Senior Data Engineer and Principal Database Engineer with **15+ years** across cloud data platforms, data warehousing, and database administration. I design and operate **end-to-end ELT/ETL pipelines** on the **medallion architecture** (bronze → silver → gold), turning raw operational data from systems like **Dynamics 365 F&O** and healthcare EHR platforms into validated, analytics-ready models on **Snowflake**, **Microsoft Fabric**, and **Databricks**.
+Principal Database Engineer with **15+ years** across cloud data platforms, data warehousing, and database administration. I design and operate **end-to-end ELT/ETL pipelines** on the **medallion architecture** (bronze → silver → gold), turning raw operational data from systems like **Dynamics 365 F&O** and healthcare EHR platforms into validated, analytics-ready models on **Snowflake**, **Microsoft Fabric**, and **Databricks**.
 
 I am certified in **Snowflake (SnowPro Core)** and **Microsoft Fabric (DP-700)**, with deep **SQL Server / MySQL / PostgreSQL** administration (**DP-300**, **MCSE**). I have a proven record of architecting enterprise data warehouses, building data-quality validation tooling, leading engineering teams, and optimizing performance, cost, and reliability at scale.
 
