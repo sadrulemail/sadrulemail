@@ -145,18 +145,20 @@ def certs(th):
 
 # ---------------------------------------------------------------- project cards
 PROJECTS = [
+    ("facility-master", "SNOWFLAKE · MASTER DATA", "Facility Master",
+     "Healthcare facility master: hospitals, hospices, SNFs, dialysis centres and ASCs matched against CMS registries, "
+     "with a data-steward review app.",
+     ["Snowflake tasks", "Streamlit in Snowflake", "Azure DevOps"], C["snowflake"], True),
+    ("commercial-master", "SNOWFLAKE · COMMERCIAL DATA", "Commercial Master",
+     "Customer and GPO price-activation records mapped to the hospital master, with branch coverage maps, "
+     "review queue and QA audit.",
+     ["Snowflake", "Streamlit", "Azure Pipelines"], C["snowflake"], True),
     ("careflow", "DATABRICKS · LAKEHOUSE", "CareFlow Lakehouse",
      "Healthcare data platform: clinical, claims and device telemetry through a governed medallion lakehouse with CI/CD.",
      ["Delta Live Tables", "Unity Catalog", "MLflow"], C["databricks"]),
-    ("finflow", "MICROSOFT FABRIC", "FinFlow — Fabric Edition",
-     "Financial-services lakehouse with Materialized Lake Views, real-time fraud detection and a Direct Lake report.",
-     ["Lakehouse", "Eventstream / KQL", "Power BI"], C["fabric"]),
     ("d365-fabric", "MICROSOFT FABRIC · MIGRATION", "D365 F&O → Fabric Lakehouse",
      "Dataverse Link to Fabric, shortcuts and Materialized Lake Views across bronze, silver and gold.",
      ["Dataverse", "MLVs", "Semantic model"], C["fabric"]),
-    ("stage-browser", "SNOWFLAKE · NATIVE APP", "Snowflake Multi-Stage Browser",
-     "Native App to register and browse files across internal and external stages from one Streamlit interface.",
-     ["Native App", "Streamlit", "Python"], C["snowflake"]),
     ("takarail", "BLOCKCHAIN · PAYMENTS", "TakaRail",
      "Payments infrastructure for Bangladesh: tokenised taka, Bangla QR, remittance corridors and a double-entry ledger.",
      ["Solidity", "Fastify", "PostgreSQL", "React"], C["web3"]),
@@ -173,14 +175,19 @@ PROJECTS = [
 
 
 def card(p):
-    _, label, title, desc, tags, color = p
+    _, label, title, desc, tags, color, *rest = p
+    private = bool(rest and rest[0])
 
     def build(th):
         W, H = 480, 196
         b = [f'<rect x="0.5" y="0.5" width="5" height="{H-1}" fill="{color}"/>',
              t(28, 38, label, 11, color, 700, spacing=1.5),
-             t(W - 26, 40, "↗", 18, th["body"], 400, anchor="end"),
              t(28, 70, title, 21, th["title"], 700)]
+        if private:
+            b.append(f'<rect x="{W-104}" y="22" width="80" height="22" rx="11" fill="{th["chip"]}" stroke="{th["chip_border"]}"/>')
+            b.append(t(W - 64, 37, "PRIVATE", 11, th["body"], 700, anchor="middle", spacing=1))
+        else:
+            b.append(t(W - 26, 40, "↗", 18, th["body"], 400, anchor="end"))
         for i, line in enumerate(wrap(desc, 14, W - 56)[:3]):
             b.append(t(28, 100 + i * 20, line, 14, th["body"]))
         x = 28
